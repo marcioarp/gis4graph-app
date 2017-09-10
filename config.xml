@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.gis4graph.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.gis4graph.mobile" version="0.10" xmlns="http://www.w3.org/ns/widgets">
 	<name>GIS4Graph</name>
 	<description>GIS4Graph</description>
 	<author email="aurelienne@gmail.com" href="http://www.gis4graph.com">GIS 4 Graph</author>
