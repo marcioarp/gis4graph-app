@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.gis4graph.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
-	<name>Gis4Graph</name>
-	<description>Gis4Graph</description>
-	<author email="aurelienne@gmail.com" href="http://www.gis4graph.com">Gis 4 Graph</author>
+	<name>GIS4Graph</name>
+	<description>GIS4Graph</description>
+	<author email="aurelienne@gmail.com" href="http://www.gis4graph.com">GIS 4 Graph</author>
 	<plugin name="cordova-plugin-whitelist" spec="1" />
 	<plugin name="cordova-plugin-inappbrowser" spec="1.3.0" />
 	<plugin name="cordova-plugin-device" spec="1.1.2" />
