@@ -1,0 +1,23 @@
+<div id="divGraph" ng-show="showProp.show" style=" overflow-y: scroll; overflow-x: hidden;
+max-height: 100%;">
+	<table class="table">
+		<tr ng-repeat="g in g4g">
+			<td>{{g.label}}</td>
+			<td>{{showProp.node[g.data]}}</td>
+		</tr>
+		
+		<tr ng-repeat="k in showProp.moreFields" ng-show="showProp.showMore">
+			<td>{{k}}</td>
+			<td>{{showProp.node[k]}}</td>
+		</tr>
+	</table>
+	
+	<center>
+	<button class="btn btn-success" ng-click="showProp.showMore = !showProp.showMore">
+		<span ng-hide="showProp.showMore">Mais...</span>
+		<span ng-show="showProp.showMore">Menos...</span>
+	</button> 
+	<button class="btn btn-success" ng-click="showProp.ok()">OK</button>
+	</center>
+</div>
+
