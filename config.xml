@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
+  <name>Gis4Graph </name>
+  <description>Gis4Graph</description>
+  <author email="aurelienne@gmail.com" href="http://www.gis4graph.com">Gis 4 Graph</author>
+
+  <plugin name="cordova-plugin-inappbrowser" spec="1.3.0" />
+  <plugin name="cordova-plugin-device" spec="1.1.2" />
+  <plugin name="cordova-plugin-splashscreen" spec="3.2.2" />
+
+  <icon src="favicon2.png" />
+  <splash src="splash.png" />
+</widget
