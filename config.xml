@@ -8,4 +8,4 @@
 	<plugin name="cordova-plugin-splashscreen" spec="3.2.2" />
 	<icon src="favicon2.png" />
 	<splash src="splash.png" />
-</widget
+</widget>
